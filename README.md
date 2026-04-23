@@ -26,7 +26,7 @@ Durante o curso, foram trabalhados:
 
 ##  Estrutura do repositório
 
-* `planilhas/` → arquivos Excel criados durante o curso
+* `Excel-Alura+Santander` → arquivos Excel criados durante o curso
 * `README.md` → descrição do projeto
 
 ##  Exemplos de projetos
